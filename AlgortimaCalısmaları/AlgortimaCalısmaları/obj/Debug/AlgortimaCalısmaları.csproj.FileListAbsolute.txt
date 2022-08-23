@@ -1,0 +1,7 @@
+C:\Users\Asım Mutlu\Desktop\PatikaDev\AlgortimaCalısmaları\AlgortimaCalısmaları\bin\Debug\AlgortimaCalısmaları.exe.config
+C:\Users\Asım Mutlu\Desktop\PatikaDev\AlgortimaCalısmaları\AlgortimaCalısmaları\bin\Debug\AlgortimaCalısmaları.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\AlgortimaCalısmaları\AlgortimaCalısmaları\bin\Debug\AlgortimaCalısmaları.pdb
+C:\Users\Asım Mutlu\Desktop\PatikaDev\AlgortimaCalısmaları\AlgortimaCalısmaları\obj\Debug\AlgortimaCalısmaları.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\AlgortimaCalısmaları\AlgortimaCalısmaları\obj\Debug\AlgortimaCalısmaları.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\PatikaDev\AlgortimaCalısmaları\AlgortimaCalısmaları\obj\Debug\AlgortimaCalısmaları.exe
+C:\Users\Asım Mutlu\Desktop\PatikaDev\AlgortimaCalısmaları\AlgortimaCalısmaları\obj\Debug\AlgortimaCalısmaları.pdb
